@@ -63,7 +63,7 @@ public class HomeWorkApp {
         if (a >= b) {
             System.out.println("a >= b");
         } else System.out.println("a < b");
-        System.out.println("Сравнение числе выполнено.\n");
+        System.out.println("Сравнение чисел выполнено.\n");
 
     }
 
