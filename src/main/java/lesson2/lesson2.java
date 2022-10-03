@@ -56,9 +56,8 @@ public class lesson2 {
 
     }
     private static void cycleStringNumber(String a, int b) {
-        final int LIMIT_OF_CYCLE = b;
         System.out.println("Написать слово " + a + " " + b + " раз");
-        for (int i = 0; i < LIMIT_OF_CYCLE; i++) {
+        for (int i = 0; i < b; i++) {
             System.out.println(a);
         }
     }
