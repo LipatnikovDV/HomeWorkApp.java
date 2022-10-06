@@ -47,6 +47,7 @@ public class lesson3 {
                 System.out.print(sqArr[i][j] + " ");
             }
             System.out.println();
+
         }
 
 
